@@ -40,7 +40,7 @@ This will at least draw a dot every 3 seconds to show the user "something is hap
 
 Personally I prefer pretty output in scripts, especially if they should be reused by other people.
 
-While writing my [Watch-Command](https://https://otterkring.github.io/PS_Watch-Command/) function I created a basic bar-countdown (or count-up, rather) to make an equivalent of the above while-loop a bit prettier. It soon added up to a little helper function, which lets me choose from three different countdowns and a customizable countdown range.
+While writing my [Watch-Command](https://otterkring.github.io/PS_Watch-Command/) function I created a basic bar-countdown (or count-up, rather) to make an equivalent of the above while-loop a bit prettier. It soon added up to a little helper function, which lets me choose from three different countdowns and a customizable countdown range.
 
 Enter `Start-CountDown`!
 
