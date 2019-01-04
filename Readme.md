@@ -1,3 +1,5 @@
+<center><a href="https://otterkring.github.io/MainPage" style="font-size:75%;">return to MainPage</a></center>
+
 # Start-Countdown / Add a custom visible countdown to your script
 ## Show the user how long (s)he has to wait until something new happens
 
